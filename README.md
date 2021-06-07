@@ -51,6 +51,4 @@ Example output for #6. Note that the <th> tag is optional. Please do not use thi
   </tr>
 </table>
 
-# 7. Following instructions
-
-# 8. Do the ‘generic’ version of questions 3 and 4, meaning the target multiple must not be hard coded – first odd or even and then the number whose multiples (in range 1 to 100) you want.
+# 7. Do the ‘generic’ version of questions 3 and 4, meaning the target multiple must not be hard coded – first odd or even and then the number whose multiples (in range 1 to 100) you want.
